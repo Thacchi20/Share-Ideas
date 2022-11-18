@@ -1,0 +1,42 @@
+
+
+.title{
+  background: #fff;
+  padding: 15px 96px;
+  color: #66ff99;
+  font-size: 25px;
+font-family: 'Fredoka One', cursive;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #66ff99;
+  border-radius: 10px;
+  box-sizing: border-box;
+  margin-top: 6px; 
+  resize: vertical;
+  margin:10px 0px;
+}
+
+input[type=submit] {
+  background-color: #66ff99;
+  color: white;
+  padding: 12px 50px;
+  border: 2px solid #00cc99;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: 'Ubuntu Condensed', sans-serif
+}
+
+input[type=submit]:hover {
+  background-color: #212121;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #212121;
+  padding: 22px;
+  color: #66ff99;
+  font-family: 'Ubuntu Condensed', sans-serif
+}
